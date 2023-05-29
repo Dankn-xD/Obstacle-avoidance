@@ -1,0 +1,24 @@
+[2.340s] Invoking command in '/home/ros_user/my_ws/src/obstacle_avoidance': PYTHONPATH=/home/ros_user/my_ws/build/obstacle_avoidance/prefix_override:/home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/obstacle_avoidance build --build-base /home/ros_user/my_ws/build/obstacle_avoidance/build install --record /home/ros_user/my_ws/build/obstacle_avoidance/install.log --install-scripts $base/lib/obstacle_avoidance --single-version-externally-managed
+[2.931s] running egg_info
+[2.934s] writing ../../build/obstacle_avoidance/obstacle_avoidance.egg-info/PKG-INFO
+[2.940s] writing dependency_links to ../../build/obstacle_avoidance/obstacle_avoidance.egg-info/dependency_links.txt
+[2.940s] writing entry points to ../../build/obstacle_avoidance/obstacle_avoidance.egg-info/entry_points.txt
+[2.940s] writing requirements to ../../build/obstacle_avoidance/obstacle_avoidance.egg-info/requires.txt
+[2.940s] writing top-level names to ../../build/obstacle_avoidance/obstacle_avoidance.egg-info/top_level.txt
+[3.140s] reading manifest file '../../build/obstacle_avoidance/obstacle_avoidance.egg-info/SOURCES.txt'
+[3.154s] writing manifest file '../../build/obstacle_avoidance/obstacle_avoidance.egg-info/SOURCES.txt'
+[3.155s] running build
+[3.155s] running build_py
+[3.155s] copying obstacle_avoidance/obstacle_avoidance.py -> /home/ros_user/my_ws/build/obstacle_avoidance/build/lib/obstacle_avoidance
+[3.156s] running install
+[3.160s] running install_lib
+[3.167s] copying /home/ros_user/my_ws/build/obstacle_avoidance/build/lib/obstacle_avoidance/obstacle_avoidance.py -> /home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages/obstacle_avoidance
+[3.171s] byte-compiling /home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages/obstacle_avoidance/obstacle_avoidance.py to obstacle_avoidance.cpython-38.pyc
+[3.189s] running install_data
+[3.192s] running install_egg_info
+[3.197s] removing '/home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages/obstacle_avoidance-0.0.0-py3.8.egg-info' (and everything under it)
+[3.203s] Copying ../../build/obstacle_avoidance/obstacle_avoidance.egg-info to /home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages/obstacle_avoidance-0.0.0-py3.8.egg-info
+[3.205s] running install_scripts
+[3.251s] Installing obstacle_avoidance script to /home/ros_user/my_ws/install/obstacle_avoidance/lib/obstacle_avoidance
+[3.253s] writing list of installed files to '/home/ros_user/my_ws/build/obstacle_avoidance/install.log'
+[3.527s] Invoked command in '/home/ros_user/my_ws/src/obstacle_avoidance' returned '0': PYTHONPATH=/home/ros_user/my_ws/build/obstacle_avoidance/prefix_override:/home/ros_user/my_ws/install/obstacle_avoidance/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/obstacle_avoidance build --build-base /home/ros_user/my_ws/build/obstacle_avoidance/build install --record /home/ros_user/my_ws/build/obstacle_avoidance/install.log --install-scripts $base/lib/obstacle_avoidance --single-version-externally-managed

@@ -1,0 +1,53 @@
+[0.129s] Invoking command in '/home/ros_user/my_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake /home/ros_user/my_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ros_user/my_ws/install/turtlebot3_navigation2
+[0.501s] -- The C compiler identification is GNU 9.4.0
+[0.789s] -- The CXX compiler identification is GNU 9.4.0
+[0.808s] -- Check for working C compiler: /usr/bin/cc
+[1.085s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.089s] -- Detecting C compiler ABI info
+[1.306s] -- Detecting C compiler ABI info - done
+[1.339s] -- Detecting C compile features
+[1.340s] -- Detecting C compile features - done
+[1.347s] -- Check for working CXX compiler: /usr/bin/c++
+[1.614s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.618s] -- Detecting CXX compiler ABI info
+[1.908s] -- Detecting CXX compiler ABI info - done
+[1.940s] -- Detecting CXX compile features
+[1.948s] -- Detecting CXX compile features - done
+[1.964s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.059s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.059s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.980s] -- Configuring done
+[2.990s] -- Generating done
+[2.995s] -- Build files have been written to: /home/ros_user/my_ws/build/turtlebot3_navigation2
+[3.011s] Invoked command in '/home/ros_user/my_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake /home/ros_user/my_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ros_user/my_ws/install/turtlebot3_navigation2
+[3.013s] Invoking command in '/home/ros_user/my_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake --build /home/ros_user/my_ws/build/turtlebot3_navigation2 -- -j4 -l4
+[3.168s] Invoked command in '/home/ros_user/my_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake --build /home/ros_user/my_ws/build/turtlebot3_navigation2 -- -j4 -l4
+[3.330s] Invoking command in '/home/ros_user/my_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake --install /home/ros_user/my_ws/build/turtlebot3_navigation2
+[3.366s] -- Install configuration: ""
+[3.368s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[3.368s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[3.369s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[3.369s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+[3.369s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+[3.370s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[3.371s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[3.372s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[3.372s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[3.373s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[3.374s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[3.376s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[3.377s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[3.380s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[3.381s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[3.382s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[3.382s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[3.383s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[3.384s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[3.385s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[3.386s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[3.386s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[3.387s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[3.388s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[3.389s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[3.389s] -- Installing: /home/ros_user/my_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[3.401s] Invoked command in '/home/ros_user/my_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros_user/turtlebot3_ws/install/my_new_package:/home/ros_user/turtlebot3_ws/install/my_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_teleop:/home/ros_user/turtlebot3_ws/install/turtlebot3_obstacle_avoidance:/home/ros_user/turtlebot3_ws/install/turtlebot3_example:/home/ros_user/ros2_ws/install/ros2_course:/home/ros_user/doosan2_ws/install/dsr_example2_py:/opt/ros/foxy /usr/bin/cmake --install /home/ros_user/my_ws/build/turtlebot3_navigation2
